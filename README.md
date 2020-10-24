@@ -1,5 +1,5 @@
 # Singleton Design Pattern (Java)
-**Singleton**
+**Singleton** a class has only one instance.
 ![](https://github.com/shamy1st/design-pattern-singleton/blob/main/uml.png)
 ### Problem:
 
